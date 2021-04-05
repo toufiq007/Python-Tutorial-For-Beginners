@@ -1,0 +1,17 @@
+
+# list vs generator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
